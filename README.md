@@ -9,7 +9,7 @@
   - [lol-reverseSSHell](https://github.com/ArronJablonowski/lol-reverseSSHell)
     - Windows OS reverse shell over SSH
   - [install_WSL_Ubuntu](https://github.com/ArronJablonowski/install_WSL_Ubuntu)
-    - Powershell script to install WSL (Windows Subsystem for Linux) Versions 1 or 2, along with Unbuntu.  
+    - Powershell script to install WSL (Windows Subsystem for Linux) Versions 1 or 2, and a Unbuntu CLI.  
   - [nla_tester](https://github.com/ArronJablonowski/nla_tester)
     - A simple script to demonstrate the need for NLA (network level authentication), and test RDP connections for NLA missconfigs  
 - <b>Bash</b>

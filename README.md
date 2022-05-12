@@ -2,9 +2,7 @@
 
 <h2>👨‍💻 My Coding & Cyber Security Projects:</h2>
 
-- <b>PowerShell</b>
-  - [Kansa](https://github.com/ArronJablonowski/Kansa)
-    - A modular Powershell framework for conducting live incident response and threat hunting. 
+- <b>PowerShell</b> 
   - [lol-reverseSSHell](https://github.com/ArronJablonowski/lol-reverseSSHell)
     - Windows OS reverse shell over SSH
   - [install_WSL_Ubuntu](https://github.com/ArronJablonowski/install_WSL_Ubuntu)
@@ -15,6 +13,10 @@
   - [birtha](https://github.com/ArronJablonowski/birtha)
     - A modular Bash framework for conducting live incident response and threat hunting.  
 
+<h2>👨‍💻 Forked Projects:</h2>
+  - [Kansa](https://github.com/ArronJablonowski/Kansa)
+    - A modular Powershell framework for conducting live incident response and threat hunting.
+  
 <!--
 **ArronJablonowski/ArronJablonowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

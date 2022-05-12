@@ -13,7 +13,7 @@
   - [birtha](https://github.com/ArronJablonowski/birtha)
     - A modular Bash framework for conducting live incident response and threat hunting.  
 
-<h2>👨‍💻 Forked Projects:</h2>
+<h2>🍴💻 Forked Projects:</h2>
 
 - <b>PowerShell</b>
   - [Kansa](https://github.com/ArronJablonowski/Kansa)

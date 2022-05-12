@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<h2>👨‍💻 My Coding & Cyber Security Projects:</h2>
+
+- <b>PowerShell</b>
+  - [lol-reverseSSHell](https://github.com/ArronJablonowski/lol-reverseSSHell)
+- <b>Bash</b>
+  - [birtha](https://github.com/ArronJablonowski/birtha)
+
 <!--
 **ArronJablonowski/ArronJablonowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

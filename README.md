@@ -5,7 +5,6 @@
 - <b>PowerShell</b>
   - [Kansa](https://github.com/ArronJablonowski/Kansa)
     - A modular Powershell framework for conducting live incident response and threat hunting. 
-    - Forked from https://github.com/davehull/Kansa 
   - [lol-reverseSSHell](https://github.com/ArronJablonowski/lol-reverseSSHell)
     - Windows OS reverse shell over SSH
   - [install_WSL_Ubuntu](https://github.com/ArronJablonowski/install_WSL_Ubuntu)

@@ -3,7 +3,11 @@
 <h2>👨‍💻 My Coding & Cyber Security Projects:</h2>
 
 - <b>PowerShell</b>
+  - [Kansa](https://github.com/ArronJablonowski/Kansa)
+    - Forked.  
   - [lol-reverseSSHell](https://github.com/ArronJablonowski/lol-reverseSSHell)
+  - [install_WSL_Ubuntu](https://github.com/ArronJablonowski/install_WSL_Ubuntu)
+  - [nla_tester](https://github.com/ArronJablonowski/nla_tester)
 - <b>Bash</b>
   - [birtha](https://github.com/ArronJablonowski/birtha)
 

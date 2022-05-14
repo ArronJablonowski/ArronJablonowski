@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h2>👨‍💻 My Code:</h2>
 
 - <b>PowerShell</b> 
@@ -32,4 +30,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+### Hi there 👋
 -->
+

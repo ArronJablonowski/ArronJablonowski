@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h2>👨‍💻 My Coding & Cyber Security Projects:</h2>
+<h2>👨‍💻 My Code:</h2>
 
 - <b>PowerShell</b> 
   - [lol-reverseSSHell](https://github.com/ArronJablonowski/lol-reverseSSHell)

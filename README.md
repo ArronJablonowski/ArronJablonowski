@@ -2,7 +2,7 @@
 
 - <b>PowerShell</b> 
   - [Run-DLS](https://github.com/ArronJablonowski/Run-DLS)
-    - Run Data Location Script helps locate files containing sensitive data.     
+    - Run Data Locator Script helps locate files containing sensitive data.     
   - [install_WSL_Ubuntu](https://github.com/ArronJablonowski/install_WSL_Ubuntu)
     - Powershell script to install WSL (Windows Subsystem for Linux) Versions 1 or 2, and a Ubuntu CLI.  
   - [nla_tester](https://github.com/ArronJablonowski/nla_tester)

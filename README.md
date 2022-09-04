@@ -1,7 +1,7 @@
 <h2>👨‍💻 My Code:</h2>
 
 - <b>PowerShell</b> 
-  - [Run-DLS](https://github.com/ArronJablonowski/Run-DLS)
+  - [Run-DLS](https://github.com/ArronJablonowski/Run-DLS) - Run Data Locator Script helps locate files that contain sensitive information on Windows Systems and SMB Shares.
     - Run Data Locator Script helps locate files that contain sensitive information on Windows Systems and SMB Shares.     
   - [install_WSL_Ubuntu](https://github.com/ArronJablonowski/install_WSL_Ubuntu)
     - Powershell script to install WSL (Windows Subsystem for Linux) versions 1 or 2, and a Ubuntu CLI.  

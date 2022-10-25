@@ -5,7 +5,7 @@
 
   - [ufw_log_monitor](https://github.com/ArronJablonowski/ufw_log_monitor) - Shell script to parse Uncomplicated Firewall logs. 
 
-  - [NMap_Automation](https://github.com/ArronJablonowski/NMap_Automation) - Shell scripts to automate Nmap. 
+  - [Nmap_Automation](https://github.com/ArronJablonowski/Nmap_Automation) - Shell scripts to automate Nmap. 
 
 - <b>PowerShell</b> 
   - [Run-DLS](https://github.com/ArronJablonowski/Run-DLS) - Run Data Locator Script helps locate files that contain sensitive information on Windows Systems and SMB Shares.    

@@ -1,4 +1,5 @@
 <h2>👨‍💻 My Code:</h2>
+
 - <b>Bash</b>
   - [birtha](https://github.com/ArronJablonowski/birtha) - A modular Bash framework for conducting live incident response and threat hunting.  
 
@@ -18,6 +19,7 @@
 
 
 <h2>🍴💻 Forked Projects:</h2>
+
 - <b>PowerShell</b>
   - [Kansa](https://github.com/ArronJablonowski/Kansa) - A modular Powershell framework for conducting live incident response and threat hunting.
  
@@ -35,9 +37,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- ☕
+- 😄 ⚡ ☕
 ### Hi there 👋
 -->
 

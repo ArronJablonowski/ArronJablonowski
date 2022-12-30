@@ -7,6 +7,8 @@
 
   - [Nmap_Automation](https://github.com/ArronJablonowski/Nmap_Automation) - Shell scripts to automate Nmap. 
 
+  - [threatHunt_pcaps](https://github.com/ArronJablonowski/threatHunt_pcaps) - Shell script to parse PCAPs for threat hunting. 
+
 - <b>PowerShell</b> 
   - [Run-DLS](https://github.com/ArronJablonowski/Run-DLS) - Run Data Locator Script helps locate files that contain sensitive information on Windows Systems and SMB Shares.    
   

@@ -5,7 +5,7 @@
     - A modular Bash framework for conducting live incident response and threat hunting.  
   - [ufw_log_monitor](https://github.com/ArronJablonowski/ufw_log_monitor) -- Uncomplicated Firewall Log Monitor
     - Shell script to parse Uncomplicated Firewall logs. 
-  - [Nmap_Automation](https://github.com/ArronJablonowski/Nmap_Automation) -- Nmap Automation Scripts 
+  - [nmap_automation](https://github.com/ArronJablonowski/Nmap_Automation) -- Nmap Automation Scripts 
     - Shell scripts to automate Nmap. 
   - [threatHunt_pcaps](https://github.com/ArronJablonowski/threatHunt_pcaps) -- Threat Hunt Pcaps
     - Shell script to parse PCAPs for threat hunting.
@@ -14,7 +14,7 @@
 
 
 - <b>PowerShell</b> 
-  - [Run-DLS](https://github.com/ArronJablonowski/Run-DLS) -- Run Data Locator Script 
+  - [run-dls](https://github.com/ArronJablonowski/Run-DLS) -- Run Data Locator Script 
     - Locates files that contain sensitive information on Windows Systems and SMB Shares.    
   - [install_WSL_Ubuntu](https://github.com/ArronJablonowski/install_WSL_Ubuntu) -- Install WSL (Windows Subsystem for Linux)
     - Powershell script to install WSL versions 1 or 2, and a Ubuntu CLI.  

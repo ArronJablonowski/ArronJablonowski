@@ -5,7 +5,7 @@
   - [ufw_log_monitor](https://github.com/ArronJablonowski/ufw_log_monitor) - Shell script to parse Uncomplicated Firewall logs. 
   - [Nmap_Automation](https://github.com/ArronJablonowski/Nmap_Automation) - Shell scripts to automate Nmap. 
   - [threatHunt_pcaps](https://github.com/ArronJablonowski/threatHunt_pcaps) - Shell script to parse PCAPs for threat hunting.
-  - [install_zsh](https://github.com/ArronJablonowski//install_zsh) - Shell script to install Zsh and a custom conifig on Ubuntu.  
+  - [install_zsh](https://github.com/ArronJablonowski/install_zsh) - Shell script to install Zsh and a custom conifig on Ubuntu.  
 
 
 - <b>PowerShell</b> 

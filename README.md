@@ -1,9 +1,9 @@
 <h1>👨‍💻 My Code:</h1>
 
 - <b>Bash</b>
-  - [birtha](https://github.com/ArronJablonowski/birtha) - Bash Incident Response & Threat Hunting Automation
+  - [birtha](https://github.com/ArronJablonowski/birtha) -- Bash Incident Response & Threat Hunting Automation
     - A modular Bash framework for conducting live incident response and threat hunting.  
-  - [ufw_log_monitor](https://github.com/ArronJablonowski/ufw_log_monitor) - Uncomplicated Firewall Log Monitor
+  - [ufw_log_monitor](https://github.com/ArronJablonowski/ufw_log_monitor) -- Uncomplicated Firewall Log Monitor
     - Shell script to parse Uncomplicated Firewall logs. 
   - [Nmap_Automation](https://github.com/ArronJablonowski/Nmap_Automation) - Nmap Automation Scripts 
     - Shell scripts to automate Nmap. 

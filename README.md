@@ -1,6 +1,6 @@
-<h2>👨‍💻 My Code:</h2>
+<h1>👨‍💻 My Code:</h1>
 
-- <h1>Bash</h1>
+- <h2>Bash</h2>
   - [birtha](https://github.com/ArronJablonowski/birtha) - Bash Incident Response & Threat Hunting Automation
     - A modular Bash framework for conducting live incident response and threat hunting.  
   - [ufw_log_monitor](https://github.com/ArronJablonowski/ufw_log_monitor) - Uncomplicated Firewall Log Monitor
@@ -13,7 +13,7 @@
     - Basic shell script to install Zsh and a custom conifig for Ubuntu.  
 
 
-- <b>PowerShell</b> 
+- <h2>PowerShell</h2> 
   - [Run-DLS](https://github.com/ArronJablonowski/Run-DLS) - Run Data Locator Script 
     - Locates files that contain sensitive information on Windows Systems and SMB Shares.    
   - [install_WSL_Ubuntu](https://github.com/ArronJablonowski/install_WSL_Ubuntu)
@@ -23,9 +23,9 @@
   - [nla_tester](https://github.com/ArronJablonowski/nla_tester) - Network Level Authentication Tester 
     - A script to demonstrate the need for NLA, and test RDP connections for NLA missconfigs  
   
-<h2>🍴💻 Forked Projects:</h2>
+<h1>🍴💻 Forked Projects:</h1>
 
-- <b>PowerShell</b>
+- <h2>PowerShell</h2>
   - [Kansa](https://github.com/ArronJablonowski/Kansa) - (Under Construction) 
     - A modular Powershell framework for conducting live incident response and threat hunting.
   

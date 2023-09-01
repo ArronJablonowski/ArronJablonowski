@@ -8,7 +8,7 @@
   - [nmap_automation](https://github.com/ArronJablonowski/Nmap_Automation) -- Nmap Automation Scripts 
     - Shell scripts to automate Nmap. 
   - [threatHunt_pcaps](https://github.com/ArronJablonowski/threatHunt_pcaps) -- Threat Hunt Pcaps
-    - Shell script to parse PCAPs for threat hunting.
+    - Shell script to parse PCAPs for network based threat hunting.
     - Parses DNS, Ports, GeoIP, User Agents, TLS versions, Nmap detection.
     - Extracts objects (files) seen over clear text protocols (http, smb, tftp).   
   - [install_zsh](https://github.com/ArronJablonowski/install_zsh) -- Install Zsh

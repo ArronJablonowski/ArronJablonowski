@@ -9,9 +9,11 @@
     - Shell scripts to automate Nmap. 
   - [threatHunt_pcaps](https://github.com/ArronJablonowski/threatHunt_pcaps) -- Threat Hunt Pcaps
     - Shell script to parse PCAPs for threat hunting.
+    - Parses DNS, Ports, GeoIP, UserAgents, TLS versions, Nmap Detection.
+    - Extracts objects (files) seen over clear text protocols (http, smb, tftp).   
   - [install_zsh](https://github.com/ArronJablonowski/install_zsh) -- Install Zsh
     - Basic shell script to install Zsh and a custom conifig for Ubuntu.
-    - Adds a Timestamp to the zsh terminal in ISO 8601 / RFC 3339 format (yyyy-mm-dd hh:mm:ss-timezone)   
+    - Adds a Timestamp to the zsh terminal in ISO 8601 / RFC 3339 format (yyyy-mm-dd hh:mm:ss-timezone).   
 
 
 - <b>PowerShell</b> 

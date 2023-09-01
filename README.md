@@ -3,8 +3,8 @@
 - <b>Bash</b>
   - [birtha](https://github.com/ArronJablonowski/birtha) -- Bash Incident Response & Threat Hunting Automation
     - A modular Bash framework for conducting live incident response and threat hunting.  
-  - [ufw_log_monitor](https://github.com/ArronJablonowski/ufw_log_monitor) -- Uncomplicated Firewall Log Monitor
-    - Shell script to parse Uncomplicated Firewall logs. 
+  - [ufw_log_monitor](https://github.com/ArronJablonowski/ufw_log_parser) -- Uncomplicated Firewall Log Parser
+    - Shell script to parse Uncomplicated Firewall logs into a format that is easy to read and understand. 
   - [nmap_automation](https://github.com/ArronJablonowski/Nmap_Automation) -- Nmap Automation Scripts 
     - Shell scripts to automate Nmap. 
   - [threatHunt_pcaps](https://github.com/ArronJablonowski/threatHunt_pcaps) -- Threat Hunt Pcaps

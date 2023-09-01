@@ -9,7 +9,7 @@
     - Shell scripts to automate Nmap. 
   - [threatHunt_pcaps](https://github.com/ArronJablonowski/threatHunt_pcaps) -- Threat Hunt Pcaps
     - Shell script to parse PCAPs for threat hunting.
-    - Parses DNS, Ports, GeoIP, UserAgents, TLS versions, Nmap Detection.
+    - Parses DNS, Ports, GeoIP, User Agents, TLS versions, Nmap detection.
     - Extracts objects (files) seen over clear text protocols (http, smb, tftp).   
   - [install_zsh](https://github.com/ArronJablonowski/install_zsh) -- Install Zsh
     - Basic shell script to install Zsh and a custom conifig for Ubuntu.

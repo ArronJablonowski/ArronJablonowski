@@ -16,7 +16,7 @@
     - Adds a Timestamp to the zsh terminal in ISO 8601 / RFC 3339 format (yyyy-mm-dd hh:mm:ss-timezone).   
 
 - <b>Batch/cmd</b> 
-  - [get-gpoReport](https://github.com/ArronJablonowski/) --- Get HTML Report of GPOs ---
+  - [get-gpoReport](https://github.com/ArronJablonowski/get-gpoReport) --- Get HTML Report of GPOs ---
     - Creates an HTML report of all GPOs in the current directory. 
 
 - <b>PowerShell</b> 

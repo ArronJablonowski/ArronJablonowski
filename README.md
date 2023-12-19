@@ -15,6 +15,9 @@
     - Basic shell script to install Zsh and a custom Zsh conifig for Ubuntu.
     - Adds a Timestamp to the zsh terminal in ISO 8601 / RFC 3339 format (yyyy-mm-dd hh:mm:ss-timezone).   
 
+- <b>Batch/cmd</b> 
+  - [get-gpoReport](https://github.com/ArronJablonowski/) --- Get HTML Report of GPOs ---
+    - Creates an HTML report of all GPOs in the current directory. 
 
 - <b>PowerShell</b> 
   - [run-dls](https://github.com/ArronJablonowski/Run-DLS) --- Run Data Locator Script ---

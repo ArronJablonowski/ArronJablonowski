@@ -12,7 +12,7 @@
     - Extracts objects (files) seen over clear text protocols (http, smb, tftp) from pcaps. 
 
 <br> 
-<h3><ins>System Settings/Setup Scripts:</ins></h3>
+<h3><ins>System Settings & Setup Scripts:</ins></h3>
 
 - [install_zsh](https://github.com/ArronJablonowski/install_zsh) -(<em>bash</em>)- Install Zsh
     - Basic shell script to install Zsh and a custom Zsh conifig for Ubuntu.

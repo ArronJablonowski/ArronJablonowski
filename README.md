@@ -1,6 +1,6 @@
 <h3>Incident Response & Threat Hunting Scripts:</h3>
 
-- [birtha](https://github.com/ArronJablonowski/birtha) -(bash)- Bash Incident Response & Threat Hunting Automation
+- [birtha](https://github.com/ArronJablonowski/birtha) -(<em>bash</em>)- Bash Incident Response & Threat Hunting Automation
     - A modular Bash framework for conducting live incident response and threat hunting.
 - [Kansa](https://github.com/ArronJablonowski/Kansa) -(powershell/forked) - Under Construction 
     - A modular Powershell framework for conducting live incident response and threat hunting.

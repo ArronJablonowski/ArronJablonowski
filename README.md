@@ -1,9 +1,9 @@
 <h1>👨‍💻 My Code:</h1>
 
 - <h1>Incident Response & Threat Hunting Scripts:</h1>
-  - [birtha](https://github.com/ArronJablonowski/birtha) -(bash)- Bash Incident Response & Threat Hunting Automation
+- [birtha](https://github.com/ArronJablonowski/birtha) -(bash)- Bash Incident Response & Threat Hunting Automation
     - A modular Bash framework for conducting live incident response and threat hunting.
-  - [Kansa](https://github.com/ArronJablonowski/Kansa) -(powershell/forked) - Under Construction 
+- [Kansa](https://github.com/ArronJablonowski/Kansa) -(powershell/forked) - Under Construction 
     - A modular Powershell framework for conducting live incident response and threat hunting.
   - [ufw_log_parser](https://github.com/ArronJablonowski/ufw_log_parser) -(bash)- Uncomplicated Firewall Log Parser
     - Shell script to parse Uncomplicated Firewall logs into a format that is easy to read and understand. 

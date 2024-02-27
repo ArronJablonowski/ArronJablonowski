@@ -1,4 +1,4 @@
-<h3>Incident Response & Threat Hunting Scripts:</h3>
+<h3><ins>Incident Response & Threat Hunting Scripts:</ins></h3>
 
 - [birtha](https://github.com/ArronJablonowski/birtha) -(<em>bash</em>)- Bash Incident Response & Threat Hunting Automation
     - A modular Bash framework for conducting live incident response and threat hunting.

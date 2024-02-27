@@ -12,7 +12,7 @@
     - Extracts objects (files) seen over clear text protocols (http, smb, tftp) from pcaps. 
 
 <br> 
-<h3>System Settings/Setup Scripts:</h3>
+<h3><ins>System Settings/Setup Scripts:</ins></h3>
 
 - [install_zsh](https://github.com/ArronJablonowski/install_zsh) -(<em>bash</em>)- Install Zsh
     - Basic shell script to install Zsh and a custom Zsh conifig for Ubuntu.
@@ -21,19 +21,19 @@
     - Powershell script to install WSL versions 1 or 2, and a Ubuntu CLI. 
 
 <br> 
-<h3>System and Domain Information Scripts:</h3> 
+<h3><ins>System and Domain Information Scripts:</ins></h3> 
 
 - [get-gpoReport](https://github.com/ArronJablonowski/get-gpoReport) -(<em>cmd</em>)- Get HTML Report of GPOs
     - Creates an HTML report of all GPOs in the current directory. 
 
 <br> 
-<h3>Nmap Automation Scripts:</h3>
+<h3><ins>Nmap Automation Scripts:</ins></h3>
 
 - [nmap_automation](https://github.com/ArronJablonowski/Nmap_Automation) --- Nmap Automation Scripts
     - Shell scripts to automate Nmap. 
 
 <br>      
-<h3>Scripts:</h3>
+<h3><ins>Scripts:</ins></h3>
 
 - [lol-reverseSSHell](https://github.com/ArronJablonowski/lol-reverseSSHell) -(<em>powershell</em>)- Living off Lan reverseSSHell
     - Windows OS reverse shell over SSH

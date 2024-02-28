@@ -21,7 +21,7 @@
     - Powershell script to install WSL versions 1 or 2, and a Ubuntu CLI. 
 
 <br> 
-<h3><ins>System and Domain Information Scripts:</ins></h3> 
+<h3><ins>Windows Domain Scripts:</ins></h3> 
 
 - [get-gpoReport](https://github.com/ArronJablonowski/get-gpoReport) -(<em>cmd</em>)- Get HTML Report of GPOs
     - Creates an HTML report of all GPOs in the current directory. 

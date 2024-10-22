@@ -32,7 +32,7 @@
 <br> 
 <h3><ins>Nmap Automation Scripts:</ins></h3>
 
-- [nmap_automation](https://github.com/ArronJablonowski/Nmap_Automation) --- Nmap Automation Scripts
+- [nmap_automation](https://github.com/ArronJablonowski/Nmap_Automation) -(<em>bash</em>)- Nmap Automation Scripts
     - Shell scripts to automate Nmap. 
 
 <br>      

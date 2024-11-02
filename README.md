@@ -9,9 +9,8 @@
 - [threatHunt_pcaps](https://github.com/ArronJablonowski/threatHunt_pcaps) -(<em>bash</em>)- Threat Hunt Pcaps
     - Shell script to parse PCAPs for network based threat hunting.
     - Parses DNS, Ports, GeoIP, User Agents, TLS versions, Nmap detection.
-    - Extracts objects (files) seen over clear text protocols (http, smb, tftp) from pcaps. 
-
-<br> 
+    - Extracts objects (files) seen over clear text protocols (http, smb, tftp) from pcaps.
+  
 <h3><ins>System Settings & Setup Scripts:</ins></h3>
 
 - [install_zsh](https://github.com/ArronJablonowski/install_zsh) -(<em>bash</em>)- Install Zsh
@@ -22,20 +21,16 @@
 - [install_WSL_Ubuntu](https://github.com/ArronJablonowski/install_WSL_Ubuntu) -(<em>powershell</em>)- Install Windows Subsystem for Linux
     - Powershell script to install WSL versions 1 or 2, and a Ubuntu CLI.
  
-
-<br> 
 <h3><ins>Windows Domain Scripts:</ins></h3> 
 
 - [get-gpoReport](https://github.com/ArronJablonowski/get-gpoReport) -(<em>cmd</em>)- Get HTML Report of GPOs
     - Creates an HTML report of all GPOs in the current directory. 
 
-<br> 
 <h3><ins>Nmap Automation Scripts:</ins></h3>
 
 - [nmap_automation](https://github.com/ArronJablonowski/Nmap_Automation) -(<em>bash</em>)- Nmap Automation Scripts
     - Shell scripts to automate Nmap. 
-
-<br>      
+   
 <h3><ins>Scripts:</ins></h3>
 
 - [lol-reverseSSHell](https://github.com/ArronJablonowski/lol-reverseSSHell) -(<em>powershell</em>)- Living off Lan reverseSSHell

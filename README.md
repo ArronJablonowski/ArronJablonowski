@@ -43,7 +43,7 @@
  <h3><ins>My Cheat Sheets:</ins></h3>
  
 - [Creating and Analyzing a Forensic Image Using Linux](https://github.com/ArronJablonowski/Run-DLS) -
-    - Locates files that contain sensitive information on Windows Systems and SMB Shares.
+    - 
 
 
  

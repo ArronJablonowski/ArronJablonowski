@@ -41,7 +41,7 @@
     - Locates files that contain sensitive information on Windows Systems and SMB Shares.
 
  <h3><ins>My Cheat Sheets:</ins></h3>
-- [Creating and Analyzing a Forensic Image - Using Linux](https://github.com/ArronJablonowski/) 
+- [Creating and Analyzing a Forensic Image Using Linux](https://github.com/ArronJablonowski/) -
     - Locates files that contain sensitive information on Windows Systems and SMB Shares.
 
 

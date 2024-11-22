@@ -38,7 +38,7 @@
  <h3><ins>My Cheat Sheets:</ins></h3>
  
 - [Creating and Analyzing a Forensic Image - Using Linux](https://github.com/ArronJablonowski/ForensicsImaging.md)
-- [Ubuntu Notes - Using Linux](https://github.com/ArronJablonowski/UbuntuNotes)
+- [Ubuntu Notes](https://github.com/ArronJablonowski/UbuntuNotes)
 
 
  

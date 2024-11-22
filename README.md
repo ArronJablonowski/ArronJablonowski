@@ -20,11 +20,6 @@
     - Bash script to install SIFT workstation, plus additional applications, tools, and OS configurations. 
 - [install_WSL_Ubuntu](https://github.com/ArronJablonowski/install_WSL_Ubuntu) -(<em>powershell</em>)- Install Windows Subsystem for Linux
     - Powershell script to install WSL versions 1 or 2, and a Ubuntu CLI.
- 
-<h3><ins>Windows Domain Scripts:</ins></h3> 
-
-- [get-gpoReport](https://github.com/ArronJablonowski/get-gpoReport) -(<em>cmd</em>)- Get HTML Report of GPOs
-    - Creates an HTML report of all GPOs in the current directory. 
 
 <h3><ins>Nmap Automation Scripts:</ins></h3>
 

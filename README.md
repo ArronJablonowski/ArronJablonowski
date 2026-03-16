@@ -11,14 +11,17 @@
     - Parses DNS, Ports, GeoIP, User Agents, TLS versions, Nmap detection.
     - Extracts objects (files) seen over clear text protocols (http, smb, tftp) from pcaps.
   
-<h3><ins>System Settings & Setup Scripts:</ins></h3>
+<h3><ins>Linux Settings & Setup Scripts:</ins></h3>
 
 - [install_zsh](https://github.com/ArronJablonowski/install_zsh) -(<em>bash</em>)- Install Zsh
     - Basic shell script to install Zsh and a custom Zsh conifig for Ubuntu.
     - Adds a Timestamp to the zsh terminal in ISO 8601 / RFC 3339 format (yyyy-mm-dd hh:mm:ss-timezone).
 - [SIFT_Plus_Installer](https://github.com/ArronJablonowski/SIFT_Plus_Installer) -(<em>bash</em>)- Installer script for SIFT Workstation, plus more.
     - Bash script to install SIFT workstation, plus additional applications, tools, and OS configurations. 
-- [install_WSL_Ubuntu](https://github.com/ArronJablonowski/install_WSL_Ubuntu) -(<em>powershell</em>)- Install Windows Subsystem for Linux
+
+<h3><ins>Windows Settings & Setup Scripts:</ins></h3>
+
+- [install_WSL_Ubuntu](https://github.com/ArronJablonowski/install_WSL_Ubuntu) -(<em>powershell</em>)- Install Windows Subsystem for Linux    
     - Powershell script to install WSL versions 1 or 2, and a Ubuntu CLI.
 
 <h3><ins>Nmap Automation Scripts:</ins></h3>

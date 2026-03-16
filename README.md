@@ -23,7 +23,7 @@
 
 - [install_WSL_Ubuntu](https://github.com/ArronJablonowski/install_WSL_Ubuntu) -(<em>powershell</em>)- Install Windows Subsystem for Linux    
     - Powershell script to install WSL versions 1 or 2, and a Ubuntu CLI.
-- [FixWinTime](https://github.com/ArronJablonowski/FixWinTime) -(<em>batch</em>)- Set or Fix Windows' Time Clock.     
+- [FixWinTime](https://github.com/ArronJablonowski/FixWinTime) -(<em>batch</em>)- Set or Fix the Windows Time Clock.     
     - batch script to set or fix the time clock on Windows. Especially helpful when dual booting Windows and Linux. 
 
 <h3><ins>Nmap Automation Scripts:</ins></h3>

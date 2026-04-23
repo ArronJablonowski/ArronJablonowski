@@ -28,7 +28,7 @@ These repositories are for specialized functions or reference guides.
 *   **[Forensics Imaging (Linux)](https://github.com/ArronJablonowski/ForensicsImaging.md):** A reference guide on best practices for capturing a forensic image.
 *   **[Ubuntu Notes](https://github.com/ArronJablonowski/UbuntuNotes):** A quick-reference document for common Ubuntu commands and configurations.
 
-### 👾 Proof of Concept (PoC) Scripts 
+### 👾 Proof of Concept Scripts 
 These demonstrate offensive capabilities for testing defenses.
 
 *   **[lol-reverseSSHell](https://github.com/ArronJablonowski/lol-reverseSSHell):** A Windows-based reverse shell written in PowerShell. *Used to simulate C2 communication over ssh.*

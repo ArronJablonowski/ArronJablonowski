@@ -2,7 +2,7 @@
 These scripts are designed for performing live incident response and threat hunting 
 
 *   **[birtha](https://github.com/ArronJablonowski/birtha):** A robust, modular Bash framework for live incident response and threat hunting. Excellent for executing systematic, repeatable investigation procedures.
-*   **[Kansa](https://github.com/ArronJablonowski/Kansa):** *(Under Construction)* A modular PowerShell framework designed to replicate the functionality of `birtha` for Windows environments.
+*   **[Kansa](https://github.com/ArronJablonowski/Kansa):** *(🚧 Under Construction 🚧)* A modular PowerShell framework designed to replicate the functionality of `birtha` for Windows environments.
 *   **[ufw_log_parser](https://github.com/ArronJablonowski/ufw_log_parser):** A dedicated Bash script designed to parse Uncomplicated Firewall logs, converting raw, verbose journal entries into a clean, structured, and readable format for immediate review.
 *   **[threatHunt_pcaps](https://github.com/ArronJablonowski/threatHunt_pcaps):** A powerful Bash tool designed to automate network forensics. It parses raw PCAPs to extract crucial data points like DNS queries, unusual ports, GeoIP metadata, and clear-text objects (HTTP, SMB, TFTP) for deep analysis.
 

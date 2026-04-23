@@ -1,65 +1,19 @@
-<h3><ins>Incident Response & Threat Hunting Scripts:</ins></h3>
+### 🚨 Incident Response & Threat Hunting Scripts
+This is the core of the operational playbook. These scripts are designed to run in live, high-stress scenarios.
 
-- [birtha](https://github.com/ArronJablonowski/birtha) -(<em>bash</em>)- Bash Incident Response & Threat Hunting Automation
-    - A modular Bash framework for conducting live incident response and threat hunting.
-- [Kansa](https://github.com/ArronJablonowski/Kansa) -(<em>powershell/forked</em>) - Under Construction 
-    - A modular Powershell framework for conducting live incident response and threat hunting.
-- [ufw_log_parser](https://github.com/ArronJablonowski/ufw_log_parser) -(<em>bash</em>)- Uncomplicated Firewall Log Parser
-    - Shell script to parse Uncomplicated Firewall logs into a format that is easy to read and understand. 
-- [threatHunt_pcaps](https://github.com/ArronJablonowski/threatHunt_pcaps) -(<em>bash</em>)- Threat Hunt Pcaps
-    - Shell script to parse PCAPs for network based threat hunting.
-    - Parses DNS, Ports, GeoIP, User Agents, TLS versions, Nmap detection.
-    - Extracts objects (files) seen over clear text protocols (http, smb, tftp) from pcaps.
-  
-<h3><ins>Linux Settings & Setup Scripts:</ins></h3>
+*   **[birtha](https://github.com/ArronJablonowski/birtha):** A robust, modular Bash framework for live incident response and threat hunting. Excellent for executing systematic, repeatable investigation procedures.
+*   **[Kansa](https://github.com/ArronJablonowski/Kansa):** *(Under Construction)* A modular PowerShell framework designed to replicate the functionality of `birtha` for Windows environments.
+*   **[ufw_log_parser](https://github.com/ArronJablonowski/ufw_log_parser):** A dedicated Bash script designed to parse Uncomplicated Firewall logs, converting raw, verbose journal entries into a clean, structured, and readable format for immediate review.
+*   **[threatHunt_pcaps](https://github.com/ArronJablonowski/threatHunt_pcaps):** A powerful Bash tool designed to automate network forensics. It parses raw PCAPs to extract crucial data points like DNS queries, unusual ports, GeoIP metadata, and clear-text objects (HTTP, SMB, TFTP) for deep analysis.
 
-- [install_zsh](https://github.com/ArronJablonowski/install_zsh) -(<em>bash</em>)- Install Zsh
-    - Basic shell script to install Zsh and a custom Zsh conifig for Ubuntu.
-    - Adds a Timestamp to the zsh terminal in ISO 8601 / RFC 3339 format (yyyy-mm-dd hh:mm:ss-timezone).
-- [SIFT_Plus_Installer](https://github.com/ArronJablonowski/SIFT_Plus_Installer) -(<em>bash</em>)- Installer script for SIFT Workstation, plus more.
-    - Bash script to install SIFT workstation, plus additional applications, tools, and OS configurations. 
+### 🛠️ System Setup & Automation Scripts
+These scripts automate the build process for target environments, saving hours of manual setup time.
 
-<h3><ins>Windows Settings & Setup Scripts:</ins></h3>
+*   **[install_zsh](https://github.com/ArronJablonowski/install_zsh):** Installs Zsh and applies a custom configuration that automatically stamps the prompt with the current time in the ISO 8601 format (`YYYY-MM-DD HH:MM:SS-Timezone`).
+*   **[SIFT_Plus_Installer](https://github.com/ArronJablonowski/SIFT_Plus_Installer):** A comprehensive installer that sets up an entire SIFT Workstation environment, plus additional tools and OS hardening configurations.
+*   **[install_WSL_Ubuntu](https://github.com/ArronJablonowski/install_WSL_Ubuntu):** A PowerShell script designed to quickly set up and configure a working WSL environment for Linux CLI access on Windows.
+*   **[FixWinTime](https://github.com/ArronJablonowski/FixWinTime):** A simple batch file to enforce or correct the system time clock on Windows, critical for multi-OS forensic consistency.
 
-- [install_WSL_Ubuntu](https://github.com/ArronJablonowski/install_WSL_Ubuntu) -(<em>powershell</em>)- Install Windows Subsystem for Linux    
-    - Powershell script to install WSL versions 1 or 2, and a Ubuntu CLI.
-- [FixWinTime](https://github.com/ArronJablonowski/FixWinTime) -(<em>batch</em>)- Set or Fix the Windows Time Clock.     
-    - batch script to set or fix the time clock on Windows. Especially helpful when dual booting Windows and Linux. 
-
-<h3><ins>Nmap Automation Scripts:</ins></h3>
-
-- [nmap_automation](https://github.com/ArronJablonowski/Nmap_Automation) -(<em>bash</em>)- Nmap Automation Scripts
-    - Shell scripts to automate Nmap. 
-   
-<h3><ins>POC Scripts:</ins></h3>
-
-- [lol-reverseSSHell](https://github.com/ArronJablonowski/lol-reverseSSHell) -(<em>powershell</em>)- Living off Lan reverseSSHell
-    - Windows OS reverse shell over SSH
-- [nla_tester](https://github.com/ArronJablonowski/nla_tester) -(<em>powershell</em>)- Network Level Authentication Tester
-    - A script to demonstrate the need for NLA, and test RDP connections for NLA missconfigs  
-- [run-dls](https://github.com/ArronJablonowski/Run-DLS) -(<em>powershell</em>)- Run Data Locator Script
-    - Locates files that contain sensitive information on Windows Systems and SMB Shares.
-
- <h3><ins>My Cheat Sheets:</ins></h3>
- 
-- [Creating and Analyzing a Forensic Image - Using Linux](https://github.com/ArronJablonowski/ForensicsImaging.md)
-- [Ubuntu Notes](https://github.com/ArronJablonowski/UbuntuNotes)
-
-<h3><ins>My AI Setup Cheat Sheets: </ins></h3> 
-
-- [🦞 OpenClaw 🦞 AI Setup & Hardening Guide for Apple Silicon](https://github.com/ArronJablonowski/) 🚧 Under Construction 🚧
-  
-<!--
-**ArronJablonowski/ArronJablonowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-<h1>🍴💻 Forked Projects:</h1>
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 🦞
-- 🚧
-- 👯 🤔 😄 ⚡ ☕
-### Hi there 👋
--->
+### 🤖 AI & Workflow Integration
+*   **[OpenClaw AI Setup Guide](https://github.com/ArronJablonowski/)** 🧠 **(🚧 Under Construction 🚧)**
+    *   This guide outlines the complete process for setting up the AI development environment on a Mac

@@ -46,7 +46,7 @@
 - [Ubuntu Notes](https://github.com/ArronJablonowski/UbuntuNotes)
 
 <h3><ins>My AI Setup Cheat Sheets:</ins></h3>
- - [🦞 OpenClaw 🦞 Local LLM Setup Mac Mini/Studio](https://github.com/ArronJablonowski/)
+ - [🦞 OpenClaw 🦞 Local LLM Setup Mac Mini-Studio](https://github.com/ArronJablonowski/)
   
 <!--
 **ArronJablonowski/ArronJablonowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

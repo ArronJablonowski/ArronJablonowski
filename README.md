@@ -16,7 +16,7 @@ These scripts automate the build process for target environments, saving time of
 
 ### 🤖 Local LLM/AI Setup Guide
 *   **[OpenClaw AI Setup Guide](https://github.com/ArronJablonowski/)** 🧠 **(🚧 Under Construction 🚧)**
-    *   This guide outlines the complete process for setting up the AI development environment on a Mac
+    *   This guide outlines the complete process for setting up the AI development environment on Apple Silicon
 
 ### 🔎 Dedicated Tooling & Cheat Sheets
 

@@ -29,7 +29,7 @@ These repositories are for specialized functions or reference guides.
 *   **[Ubuntu Notes](https://github.com/ArronJablonowski/UbuntuNotes):** A quick-reference document for common Ubuntu commands and configurations.
 
 ### 👾 Proof of Concept Scripts 
-These demonstrate offensive capabilities for testing defenses.
+These PoC scripts demonstrate offensive capabilities for testing defenses.
 
 *   **[lol-reverseSSHell](https://github.com/ArronJablonowski/lol-reverseSSHell):** A Windows-based reverse shell written in PowerShell. *Used to simulate C2 communication over ssh.*
 *   **[nla_tester](https://github.com/ArronJablonowski/nla_tester):** Tests Network Level Authentication (NLA) for RDP connections, demonstrating a common configuration weakness.

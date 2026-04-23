@@ -14,7 +14,7 @@ These scripts automate the build process for target environments, saving time of
 *   **[install_zsh](https://github.com/ArronJablonowski/install_zsh):** Installs Zsh and applies a custom configuration that automatically stamps the prompt with the current time in the ISO 8601 format (`YYYY-MM-DD HH:MM:SS-Timezone`).
 *   **[SIFT_Plus_Installer](https://github.com/ArronJablonowski/SIFT_Plus_Installer):** A comprehensive installer that sets up an entire SIFT Workstation environment, plus additional tools and OS hardening configurations.
 *   **[install_WSL_Ubuntu](https://github.com/ArronJablonowski/install_WSL_Ubuntu):** A PowerShell script designed to quickly set up and configure a working WSL environment for Linux CLI access on Windows.
-*   **[FixWinTime](https://github.com/ArronJablonowski/FixWinTime):** A simple batch file to enforce or correct the system time clock on Windows, critical for multi-OS forensic consistency.
+*   **[FixWinTime](https://github.com/ArronJablonowski/FixWinTime):** A simple batch file to enforce or correct the system time clock on Windows. Especially helpful when dealing with dual or multi boot systems.
 
 ### 🧠 Local LLM / AI Setup Guide
 *   **[OpenClaw AI Setup Guide](https://github.com/ArronJablonowski/)** **(🚧 Under Construction 🚧)**

@@ -47,7 +47,7 @@
 
 <h3><ins>My AI Setup Cheat Sheets: 🦞🧠 </ins></h3> 
 
-- [OpenClaw Local LLM Setup Mac Mini / Studio](https://github.com/ArronJablonowski/OpenClawNotes)
+- [OpenClaw Local LLM Setup Mac Mini / Studio](https://github.com/ArronJablonowski/) 🚧 Under Construction 🚧
   
 <!--
 **ArronJablonowski/ArronJablonowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 🦞
+- 🚧
 - 👯 🤔 😄 ⚡ ☕
 ### Hi there 👋
 -->

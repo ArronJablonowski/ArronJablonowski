@@ -18,7 +18,7 @@ These scripts automate the build process for target environments, saving time of
 
 ### 🧠 Local LLM / AI Setup Guide
 *   **[OpenClaw AI Setup Guide](https://github.com/ArronJablonowski/)** **(🚧 Under Construction 🚧)**
-    *   This guide outlines the process for setting up and securing an OpenClaw AI Lab 🧪 environment on Apple Silicon
+    *   This guide outlines the process for setting up and securing an OpenClaw AI Lab 🧪 environment on Apple Silicon.
 
 ### 🔎 Dedicated Tooling & Cheat Sheets 
 

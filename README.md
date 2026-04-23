@@ -8,7 +8,7 @@ These scripts are designed for performing live incident response and threat hunt
 *   **[ufw_log_parser](https://github.com/ArronJablonowski/ufw_log_parser):** A dedicated Bash script designed to parse Uncomplicated Firewall logs, converting raw, verbose journal entries into a clean, structured, and readable format for immediate review.
 *   **[threatHunt_pcaps](https://github.com/ArronJablonowski/threatHunt_pcaps):** A powerful Bash tool designed to automate network forensics. It parses raw PCAPs to extract crucial data points like DNS queries, unusual ports, GeoIP metadata, and clear-text objects (HTTP, SMB, TFTP) for deep analysis.
 
-### 🏗️ System Setup & Automation Scripts ⚙️
+### 🏗️ System Setup & Automation Scripts
 These scripts automate the build process for target environments, saving time of manual setups.
 
 *   **[install_zsh](https://github.com/ArronJablonowski/install_zsh):** Installs Zsh and applies a custom configuration that automatically stamps the prompt with the current time in the ISO 8601 format (`YYYY-MM-DD HH:MM:SS-Timezone`).
@@ -16,11 +16,11 @@ These scripts automate the build process for target environments, saving time of
 *   **[install_WSL_Ubuntu](https://github.com/ArronJablonowski/install_WSL_Ubuntu):** A PowerShell script designed to quickly set up and configure a working WSL environment for Linux CLI access on Windows.
 *   **[FixWinTime](https://github.com/ArronJablonowski/FixWinTime):** A simple batch file to enforce or correct the system time clock on Windows, critical for multi-OS forensic consistency.
 
-### 🤖 Local LLM/AI Setup Guide 🧠
+### 🧠 Local LLM/AI Setup Guide
 *   **[OpenClaw AI Setup Guide](https://github.com/ArronJablonowski/)** **(🚧 Under Construction 🚧)**
     *   This guide outlines the process for setting up and securing an OpenClaw AI 🧑‍🔬 Lab 🧪 environment on Apple Silicon
 
-### 🛠️ Dedicated Tooling & Cheat Sheets 🔎
+### 🔎 Dedicated Tooling & Cheat Sheets 
 
 These repositories are for specialized functions or reference guides.
 
@@ -28,7 +28,7 @@ These repositories are for specialized functions or reference guides.
 *   **[Forensics Imaging (Linux)](https://github.com/ArronJablonowski/ForensicsImaging.md):** A reference guide on best practices for capturing a forensic image.
 *   **[Ubuntu Notes](https://github.com/ArronJablonowski/UbuntuNotes):** A quick-reference document for common Ubuntu commands and configurations.
 
-### ⚔️ Proof of Concept (PoC) Scripts 👾
+### 👾 Proof of Concept (PoC) Scripts 
 These demonstrate offensive capabilities for testing defenses.
 
 *   **[lol-reverseSSHell](https://github.com/ArronJablonowski/lol-reverseSSHell):** A Windows-based reverse shell written in PowerShell. *Used to simulate C2 communication over ssh.*

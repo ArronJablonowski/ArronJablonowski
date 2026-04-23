@@ -17,7 +17,7 @@ These scripts automate the build process for target environments, saving time of
 *   **[FixWinTime](https://github.com/ArronJablonowski/FixWinTime):** A simple batch file to enforce or correct the system time clock on Windows. Especially helpful when dealing with dual or multi boot systems.
 
 ### 🧠 Local LLM / AI Setup Guide
-*   **[OpenClaw AI Setup Guide](https://github.com/ArronJablonowski/)** **(🚧 Under Construction 🚧)**
+*   **[OpenClaw AI Setup Guide](https://github.com/ArronJablonowski/OpenClawNotes)** **(🚧 Under Construction 🚧)**
     *   This guide outlines the process for setting up and securing an OpenClaw AI Lab 🧪 environment on Apple Silicon.
 
 ### 🔎 Dedicated Tooling & Cheat Sheets 

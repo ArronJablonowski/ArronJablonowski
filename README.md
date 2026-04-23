@@ -45,7 +45,7 @@
 - [Creating and Analyzing a Forensic Image - Using Linux](https://github.com/ArronJablonowski/ForensicsImaging.md)
 - [Ubuntu Notes](https://github.com/ArronJablonowski/UbuntuNotes)
 
-<h3><ins>My AI Setup Cheat Sheets: 🦞🧠 </ins></h3> 
+<h3><ins>My AI Setup Cheat Sheets: </ins></h3> 
 
 - [🦞 OpenClaw 🦞 AI Setup & Hardening Guide for Apple Silicon](https://github.com/ArronJablonowski/) 🚧 Under Construction 🚧
   

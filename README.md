@@ -16,8 +16,8 @@ These scripts automate the build process for target environments, saving time of
 *   **[install_WSL_Ubuntu](https://github.com/ArronJablonowski/install_WSL_Ubuntu):** A PowerShell script designed to quickly set up and configure a working WSL environment for Linux CLI access on Windows.
 *   **[FixWinTime](https://github.com/ArronJablonowski/FixWinTime):** A simple batch file to enforce or correct the system time clock on Windows, critical for multi-OS forensic consistency.
 
-### 🤖 Local LLM/AI Setup Guide
-*   **[OpenClaw AI Setup Guide](https://github.com/ArronJablonowski/)** 🧠 **(🚧 Under Construction 🚧)**
+### 🤖 Local LLM/AI Setup Guide 🧠
+*   **[OpenClaw AI Setup Guide](https://github.com/ArronJablonowski/)** **(🚧 Under Construction 🚧)**
     *   This guide outlines the process for setting up and securing an OpenClaw AI 🧑‍🔬 Lab 🧪 environment on Apple Silicon
 
 ### 🔎 Dedicated Tooling & Cheat Sheets

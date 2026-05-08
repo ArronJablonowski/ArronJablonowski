@@ -1,4 +1,4 @@
-# 💻 Arron Jablonowski's code repository:
+# 💻 Arron Jablonowski's code repository
 
 ### 🚨 Incident Response & Threat Hunting Scripts
 These scripts are designed for performing live incident response and threat hunting 

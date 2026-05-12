@@ -1,5 +1,5 @@
 # 💻 by: Arron Jablonowski
-🔗 [LinkedIn](https://www.linkedin.com/in/arronjablonowski/)
+🔗 [LinkedIn](https://www.linkedin.com/in/arronjablonowski/){:target="_blank"}
 
 ### 🚨 Incident Response & Threat Hunting Scripts
 These scripts are designed for performing live incident response and threat hunting 

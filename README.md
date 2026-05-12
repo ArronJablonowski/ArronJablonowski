@@ -3,7 +3,7 @@
 ### 🚨 Incident Response & Threat Hunting Scripts
 These scripts are designed for performing live incident response and threat hunting 
 
-*   **[SOCCOM](https://github.com/ArronJablonowski/):** *(🚧 Under Construction 🚧)* 
+*   **[SOCCOM](https://github.com/ArronJablonowski/SOCCOM):** *(🚧 Under Construction 🚧)* 
 *   **[birtha](https://github.com/ArronJablonowski/birtha):** A modular Bash framework for live incident response and threat hunting. Excellent for executing systematic, repeatable investigation procedures.
 *   **[Kansa](https://github.com/ArronJablonowski/Kansa):** *(🚧 Under Construction 🚧)* A modular PowerShell framework designed for live incident response and threat hunting in Windows environments.
 *   **[ufw_log_parser](https://github.com/ArronJablonowski/ufw_log_parser):** A dedicated Bash script designed to parse Uncomplicated Firewall logs, converting raw, verbose journal entries into a clean, structured, and readable format for immediate review.

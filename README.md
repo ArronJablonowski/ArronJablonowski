@@ -23,7 +23,7 @@ These scripts automate the build process for target environments, saving time of
 ### 🔎 Dedicated Tooling & Cheat Sheets 
 
 These repositories are for specialized functions or reference guides.
-
+*   **[HEIC to JPEG](https://github.com/ArronJablonowski/heic_to_jpg/blob/main/README.md)** A simple script to convert HEIC files (Apple's raw photo format) to JPEGs. 
 *   **[Nmap Automation](https://github.com/ArronJablonowski/Nmap_Automation):** A collection of scripts to automate common Nmap scanning tasks for systematic network discovery.
 *   **[Forensics Imaging (Linux)](https://github.com/ArronJablonowski/ForensicsImaging.md):** A reference guide on best practices for capturing a forensic image.
 *   **[Ubuntu Notes](https://github.com/ArronJablonowski/UbuntuNotes):** A quick-reference document for common Ubuntu commands and configurations.

@@ -9,7 +9,7 @@ These scripts are designed for performing live incident response and threat hunt
 *   **[threatHunt_pcaps](https://github.com/ArronJablonowski/threatHunt_pcaps):** A Bash tool designed to automate network forensics. It parses  PCAPs to extract crucial data points like DNS queries, unusual ports, GeoIP metadata, and clear-text objects (HTTP, SMB, TFTP) for deep analysis.
 *   **[Kansa](https://github.com/ArronJablonowski/Kansa):** *(🚧 Under Construction 🚧)* A modular PowerShell framework designed for live incident response and threat hunting in Windows environments.
 
-### 🏗️ System Setup & Automation Scripts
+### 🏗️ System Setup Scripts
 These scripts automate the build process for target environments, saving time of manual setups.
 
 *   **[SIFT_Plus_Installer](https://github.com/ArronJablonowski/SIFT_Plus_Installer):** A comprehensive installer designed to deploy a fully operational Digital Forensics and Incident Response (DFIR) Workstation, complete with required OS hardening and specialized tooling.

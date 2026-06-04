@@ -27,6 +27,7 @@ These repositories are for specialized functions.
 
 ### 🔎 Cheat Sheets
 These repositories are for reference guides.
+*   **[CQL_Mapped_to_Mitre](https://github.com/ArronJablonowski/CQL_Mapped_to_Mitre):** A curated Obsidian and portable HTML reference that maps CrowdStrike Falcon SIEM / LogScale CQL hunting queries to the MITRE ATT&CK Enterprise framework. 
 *   **[Forensics Imaging (Linux)](https://github.com/ArronJablonowski/ForensicsImaging.md):** A reference guide on best practices for capturing a forensic image.
 *   **[Ubuntu Notes](https://github.com/ArronJablonowski/UbuntuNotes):** A quick-reference document for common Ubuntu commands and configurations.
 

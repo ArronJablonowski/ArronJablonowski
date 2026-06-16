@@ -7,7 +7,7 @@ These scripts are designed for performing live incident response and threat hunt
 *   **[SOCCOM](https://github.com/ArronJablonowski/SOCCOM):** Built for real-world security operations, SOCCOM helps analysts move from alert to documented decision faster while giving SOC managers repeatable, case-ready investigation output.
 *   **[ufw_log_parser](https://github.com/ArronJablonowski/ufw_log_parser):** A dedicated Bash script designed to parse Uncomplicated Firewall logs, converting raw, verbose journal entries into a clean, structured, and readable format for immediate review.
 *   **[threatHunt_pcaps](https://github.com/ArronJablonowski/threatHunt_pcaps):** A Bash tool designed to automate network forensics. It parses  PCAPs to extract crucial data points like DNS queries, unusual ports, GeoIP metadata, and clear-text objects (HTTP, SMB, TFTP) for deep analysis.
-*   **[Kansa](https://github.com/ArronJablonowski/Kansa):** *(🚧 Under Construction 🚧)* A modular PowerShell framework designed for live incident response and threat hunting in Windows environments.
+*   **[Kansa](https://github.com/ArronJablonowski/Kansa):** A modular PowerShell framework designed for live incident response and threat hunting in Windows environments.
 
 ### 🏗️ System Setup Scripts
 These scripts automate the build process for target environments, saving time of manual setups.

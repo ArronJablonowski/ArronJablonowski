@@ -1,4 +1,5 @@
 # 💻 by: Arron Jablonowski
+🔗 [LinkedIn](https://www.linkedin.com/in/arronjablonowski/)
 
 ### 🚨 Incident Response & Threat Hunting Scripts
 These scripts are designed for performing live incident response and threat hunting 
@@ -39,5 +40,3 @@ These PoC scripts demonstrate offensive capabilities for testing defenses.
 *   **[nla_tester](https://github.com/ArronJablonowski/nla_tester):** Tests Network Level Authentication (NLA) for RDP connections, demonstrating a common configuration weakness.
 *   **[run-dls](https://github.com/ArronJablonowski/Run-DLS):** A script designed to search Windows systems and SMB shares for sensitive data patterns.
 
-##
-🔗 [My LinkedIn Profile](https://www.linkedin.com/in/arronjablonowski/)

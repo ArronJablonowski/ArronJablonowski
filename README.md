@@ -1,4 +1,4 @@
-# 💻 by: Arron Jablonowski - 🔗 [LinkedIn](https://www.linkedin.com/in/arronjablonowski/)
+# 💻 by: Arron Jablonowski -- 🔗 [LinkedIn](https://www.linkedin.com/in/arronjablonowski/)
 
 
 ### 🚨 Incident Response & Threat Hunting Scripts

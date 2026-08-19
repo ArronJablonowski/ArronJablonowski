@@ -22,7 +22,6 @@ These scripts automate the build process for target environments, saving time of
 *   **[Cyber Operations Harness](https://github.com/ArronJablonowski/COH)** **(🚧 Under Construction 🚧):** This is a cuber security focused LLM harness.
 *   **[Onion Sentinel](https://github.com/ArronJablonowski/OnionSentinel)** **(🚧 Under Construction 🚧):** An AI/LLM augmented SOC alert triage application.   
 *   **[OpenClaw AI Setup Guide](https://github.com/ArronJablonowski/OpenClawNotes)** **(🚧 Under Construction 🚧):** This guide outlines the process for setting up and securing an OpenClaw AI Lab 🧪 Environment on Apple Silicon hardware.
-*   
 
 ### 🛠️ Dedicated Tooling 
 These repositories are for specialized functions.

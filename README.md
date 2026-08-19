@@ -19,7 +19,8 @@ These scripts automate the build process for target environments, saving time of
 *   **[FixWinTime](https://github.com/ArronJablonowski/FixWinTime):** A simple batch file to enforce or correct the system time clock on Windows. Especially helpful when dealing with dual or multi boot systems.
 
 ### 🧠 LLM / AI Projects
-*   ** [Cyber Operations Harness]()** This is a cuber security focused LLM harness.
+*   **[Cyber Operations Harness](https://github.com/ArronJablonowski/COH)** **(🚧 Under Construction 🚧):** This is a cuber security focused LLM harness.
+*   **[Onion Sentinel](https://github.com/ArronJablonowski/OnionSentinel)** **(🚧 Under Construction 🚧):** An AI/LLM augmented SOC alert triage application.   
 *   **[OpenClaw AI Setup Guide](https://github.com/ArronJablonowski/OpenClawNotes)** **(🚧 Under Construction 🚧):** This guide outlines the process for setting up and securing an OpenClaw AI Lab 🧪 Environment on Apple Silicon hardware.
 *   
 

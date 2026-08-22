@@ -33,6 +33,7 @@ These repositories are for specialized functions.
 These repositories are for reference guides.
 *   **[KQL_Microsoft_Sentinel](https://github.com/ArronJablonowski/KQL_Microsoft_Sentinel)** A curated Obsidian and portable HTML reference that maps Microsoft Sentinel KQL hunting queries to the MITRE ATT&CK Enterprise framework.
 *   **[CQL_Mapped_to_Mitre](https://github.com/ArronJablonowski/CQL_Mapped_to_Mitre):** A curated Obsidian and portable HTML reference that maps CrowdStrike Falcon SIEM / LogScale CQL hunting queries to the MITRE ATT&CK Enterprise framework. 
+*   **[Splunk SPL_Mapped_to_Mitre](https://github.com/ArronJablonowski/Splunk_SPL):** A curated Obsidian and portable HTML reference that maps Splunk SPL hunting queries to the MITRE ATT&CK Enterprise framework.
 *   **[KQL_OQL_Mapped_to_Mitre](https://github.com/ArronJablonowski/KQL_OQL_Mapped_to_Mitre):** A curated Obsidian and portable HTML reference that maps Elastic KQL and Security Onion OQL hunting queries to the MITRE ATT&CK Enterprise framework. 
 *   **[Forensics Imaging (Linux)](https://github.com/ArronJablonowski/ForensicsImaging.md):** A reference guide on best practices for capturing a forensic image.
 *   **[Ubuntu Notes](https://github.com/ArronJablonowski/UbuntuNotes):** A quick-reference document for common Ubuntu commands and configurations.

@@ -19,7 +19,7 @@ These scripts automate the build process for target environments, saving time of
 *   **[FixWinTime](https://github.com/ArronJablonowski/FixWinTime):** A simple batch file to enforce or correct the system time clock on Windows. Especially helpful when dealing with dual or multi boot systems.
 
 ### 🧩 Extensions and Plug-ins
-*   **[Local Markdown Vault](https://github.com/ArronJablonowski/local-markdown-vault-vscode) - (VSCode Extension):** A secure, local-only VS Code extension with Obsidian-style live Markdown editing and document vault management.
+*   **[Local Markdown Vault](https://github.com/ArronJablonowski/local-markdown-vault-vscode) - (VSCode extension):** A secure, local-only VS Code extension with Obsidian-style live Markdown editing and document vault management.
 
 ### 🧠 LLM / AI Projects
 *   **[Cyber Operations Harness](https://github.com/ArronJablonowski/COH)** **(🚧 Under Construction 🚧):** This is a cyber security focused LLM harness.
